@@ -1,24 +1,24 @@
-<!-- Profil Fotoğrafı ve Başlık -->
+<!-- Profile Photo & Heading -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-userid?v=4" width="120" style="border-radius:50%" alt="Profile"/>
+  <img src="https://avatars.githubusercontent.com/u/11486297?v=4" width="120" style="border-radius:50%" alt="Profile"/>
 </p>
 <h1 align="center">Hi 👋, I'm Mehmet Ünal</h1>
 <p align="center">
-  <b>Full Stack Developer | Açık Kaynak Aşığı | Next.js & Node.js Tutkunu</b>
+  <b>Full Stack Developer</b>
 </p>
 
 ---
 
-<!-- Kısa Tanıtım -->
-🌱 Şu anda Next.js projeleri geliştiriyorum.<br>
-⚡️ Yeni teknolojilere meraklıyım ve sürekli öğreniyorum.<br>
-💬 Bana yazılım, seyahat ve teknoloji hakkında sorular sorabilirsin!<br>
-📫 Bana ulaş: <a href="mailto:youremail@example.com">youremail@example.com</a>
+<!-- Short Introduction -->
+🌱 Currently developing Next.js projects.<br>
+⚡️ Passionate about new technologies and always learning.<br>
+💬 Feel free to ask me about software, travel, and technology!<br>
+📫 Contact me: <a href="mailto:iammehmetunal@gmail.com">iammehmetunal@gmail.com</a>
 
 ---
 
-<!-- Kullandığım Teknolojiler -->
-<h3>🛠️ Kullandığım Teknolojiler</h3>
+<!-- Technologies I Use -->
+<h3>🛠️ Technologies I Use</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
@@ -31,8 +31,8 @@
 
 ---
 
-<!-- Öne Çıkan Projeler -->
-<h3>🚀 Öne Çıkan Projelerim</h3>
+<!-- Featured Projects -->
+<h3>🚀 Featured Projects</h3>
 <ul>
   <li><a href="https://github.com/Travelaps/nextjs-hotel-payment-system">Next.js Hotel Payment System</a></li>
   <li><a href="https://github.com/Travelaps/nextjs-fair-register-system">Next.js Fair Register System</a></li>
@@ -41,8 +41,8 @@
 
 ---
 
-<!-- GitHub İstatistikleri -->
-<h3>📊 GitHub İstatistiklerim</h3>
+<!-- GitHub Stats -->
+<h3>📊 My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmehmetunal&show_icons=true&theme=tokyonight" alt="mmehmetunal stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmehmetunal&theme=tokyonight" alt="mmehmetunal streak" width="400"/>
@@ -50,11 +50,11 @@
 
 ---
 
-<!-- Sosyal Medya -->
-<h3>🌐 Beni Takip Et</h3>
+<!-- Social Media -->
+<h3>🌐 Connect with Me</h3>
 <p>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/></a>
+  <a href="https://www.linkedin.com/in/mmehmetunal" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
+  <a href="https://x.com/mehmetmunal" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/></a>
 </p>
 
-<!-- README Sonu -->
+<!-- End of README -->
